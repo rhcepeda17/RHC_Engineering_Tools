@@ -8,7 +8,7 @@ Developer
 ------------------------------------------------------------
 
 A collection of structural, civil, and construction-related tools developed by **Engr. Ruel H. Cepeda**, 
-#▶️[Support my RHC Engineering YouTube Channel](https://www.youtube.com/@rhcengineering).
+[Support my RHC Engineering YouTube Channel ▶️](https://www.youtube.com/@rhcengineering).
 
 VERSION HISTORY:
 
