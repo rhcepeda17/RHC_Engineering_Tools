@@ -1,13 +1,12 @@
 ------------------------------------------------------------
-
-RHCE Tools version 1.2.7 
+**RHCE Tools version 1.2.7 **<br>
 Developer: Engr. Ruel H. Cepeda
 📥[Download here](https://rhcepeda17.github.io/RHC_Engineering_Tools/)
 
 ------------------------------------------------------------
 A collection of structural, civil, and construction-related tools.
 Support me here: 
-        ▶️[YouTube Channel](https://www.youtube.com/@rhcengineering)
+▶️[YouTube Channel](https://www.youtube.com/@rhcengineering)
 
 
 VERSION HISTORY:
