@@ -2,14 +2,13 @@
 **🚀 RHCE Tools version 1.2.7**<br>
 Developer: Engr. Ruel H. Cepeda<br>
 A collection of structural, civil, and construction-related tools.<br>
-
 📥[Download here](https://rhcepeda17.github.io/RHC_Engineering_Tools/)<br>
 
 Support me here: <br>
 ▶️[YouTube Channel](https://www.youtube.com/@rhcengineering)<br>
 
 
-VERSION HISTORY:
+Version History:
 
         Version 1.2.1 (01-Aug-2025)
          - Dowel Development Length
