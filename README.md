@@ -1,6 +1,6 @@
 ------------------------------------------------------------
-# RHCE Tools version 1.2.7  
-[![Download](https://github.com/rhcepeda17/RHC_Engineering_Tools/raw/main/images/download-icon.png)](https://rhcepeda17.github.io/RHC_Engineering_Tools/)
+# RHCE Tools version 1.2.7: 
+📥https://rhcepeda17.github.io/RHC_Engineering_Tools/
 
 **ENGR. RUEL H. CEPEDA, RMP**  
 Structural Engineer  
