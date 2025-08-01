@@ -6,9 +6,10 @@
 Structural Engineer  
 Developer
 ------------------------------------------------------------
+A collection of structural, civil, and construction-related tools developed by **Engr. Ruel H. Cepeda**. 
+# Support me here: 
+▶️[YouTube Channel](https://www.youtube.com/@rhcengineering)
 
-A collection of structural, civil, and construction-related tools developed by **Engr. Ruel H. Cepeda**, 
-[Support my RHC Engineering YouTube Channel ▶️](https://www.youtube.com/@rhcengineering).
 
 VERSION HISTORY:
 
