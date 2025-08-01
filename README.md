@@ -2,13 +2,16 @@
 RHCE Tools version 1.2.7: 
 https://rhcepeda17.github.io/RHC_Engineering_Tools/
 ------------------------------------------------------------
-ENGR. RUEL H. CEPEDA, RMP          
+**ENGR. RUEL H. CEPEDA, RMP**          
 Structural Engineer 
 Developer
 
 A collection of structural, civil, and construction-related tools developed by **Engr. Ruel H. Cepeda**, hosted and maintained under the [RHC Engineering](https://www.youtube.com/@rhcengineering) brand.
 
 VERSION HISTORY:
+        Version 1.2.1 (01-Aug-2025)
+         - Dowel Development Length
+         
         Version 1.2.6 (31-Jul-2025)
          - Lot Bearing Plotter add pdf & cad exporter
 
