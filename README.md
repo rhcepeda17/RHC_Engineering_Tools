@@ -7,7 +7,8 @@ Structural Engineer
 Developer
 
 
-A collection of structural, civil, and construction-related tools developed by **Engr. Ruel H. Cepeda**, hosted and maintained under the [RHC Engineering](https://www.youtube.com/@rhcengineering) brand.
+A collection of structural, civil, and construction-related tools developed by **Engr. Ruel H. Cepeda**, 
+hosted and maintained under the [RHC Engineering](https://www.youtube.com/@rhcengineering) YouTube Channel.
 
 VERSION HISTORY:
         Version 1.2.1 (01-Aug-2025)
